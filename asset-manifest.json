@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/JFX/static/css/main.6b5122c3.css",
+    "main.js": "/JFX/static/js/main.7502f1b9.js",
+    "static/media/UpickMain.png": "/JFX/static/media/UpickMain.8c5bd9be4472d210c88d.png",
+    "static/media/MoonNewsMain.png": "/JFX/static/media/MoonNewsMain.01c35ec0394c2620e07d.png",
+    "static/media/JohnBasgallopCV.pdf": "/JFX/static/media/JohnBasgallopCV.d14a74f90b10cfb3d64b.pdf",
+    "static/media/about.jpg": "/JFX/static/media/about.c40327ad4f3cba4bf793.jpg",
+    "static/media/profile.jpg": "/JFX/static/media/profile.c40327ad4f3cba4bf793.jpg",
+    "static/media/UpickCover.png": "/JFX/static/media/UpickCover.d614557934e1049030f0.png",
+    "static/media/MoonNewsCover.png": "/JFX/static/media/MoonNewsCover.aec9a396eeab27c85bd5.png",
+    "static/media/testimonial3.png": "/JFX/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/work2.jpg": "/JFX/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/testimonial2.png": "/JFX/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/work4.jpg": "/JFX/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/JFX/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/JFX/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/JFX/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/testimonial1.png": "/JFX/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/JFX/index.html",
+    "main.6b5122c3.css.map": "/JFX/static/css/main.6b5122c3.css.map",
+    "main.7502f1b9.js.map": "/JFX/static/js/main.7502f1b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b5122c3.css",
+    "static/js/main.7502f1b9.js"
+  ]
+}
